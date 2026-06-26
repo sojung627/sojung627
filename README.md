@@ -22,8 +22,9 @@ Java & Spring 기반 풀스택 개발 경험을 바탕으로 **AI 및 로봇 소
 ### 📋 Check List
 체크리스트 모바일 앱
 
-### 그 외 프로젝트
-*추후 업로드 예정 ...*
+## 📂 Developing Projects
+### ☁️ GureumTalk
+감성 기반 AI 채팅 및 음성 대화 웹 서비스
 
 ## 🛠 Java and App Skills
 **💻 Language**  
@@ -66,7 +67,6 @@ Poetry
 ## 📫Contact
 ✉️ Email :  temporay020627@gmail.com <br>
 📝 Portfolio : https://plastic-prose-6fa.notion.site/Web-Developer-Portfolio-324e03ce397e80b78d51c52e94dc558f <br>
-<br>
 <br>
 <br>
 ⭐ Thanks for visiting my GitHub!
