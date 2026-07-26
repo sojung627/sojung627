@@ -61,7 +61,10 @@ Python · Typescript
 FastAPI
 
 ## 🤖 AI
-LLM · ML · STT · TTS
+LLM · ML · MCP  
+Embedding · RAG  
+Qdrant tVector DB  
+STT · TTS  
 
 **🎨 Frontend** <br> 
 React(Vite) · TailwindCSS
