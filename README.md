@@ -40,50 +40,57 @@ TurtleBot3와 Jetson Orin Nano를 활용한 피지컬 AI
 ### Check List
 체크리스트 모바일 앱
 
-## 🛠 Java and App Skills
-**💻 Language**  
+## ava and App Skills
+**Language**  
 Java · Dart  
 
-**⚙ Backend** <br>
+**Backend** <br>
 Spring Boot · Spring Framework · JPA(Hibernate) · MyBatis · REST API · Maven · Gradle · Tomcat
 
-**🎨 Frontend** <br> 
+**Frontend** <br> 
 HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap · React(Vite)
 
-**📱 Mobile** <br> 
+**Mobile** <br> 
 Flutter
 
-**🗄 Database** <br> 
+**Database** <br> 
 Oracle · MySQL · PostgreSQL
 
-**🔧 Tools** <br> 
+**Tools** <br> 
 Git · Linux · Docker · AWS EC2
 
-## 🛠 Python Skills
-**💻 Language**  
+## Python Skills
+**Language**  
 Python · Typescript
 
-**⚙ Backend** <br>
+**Backend** <br>
 FastAPI
 
-## 🤖 AI
+## AI
 LLM · ML · MCP  
 Embedding · RAG  
 Qdrant tVector DB  
 STT · TTS  
 
-**🎨 Frontend** <br> 
+**Frontend** <br> 
 React(Vite) · TailwindCSS
 
-**🗄 Database** <br> 
+**Database** <br> 
 PostgreSQL
 
-**🔧 Tools** <br> 
+**Tools** <br> 
 Poetry
 
-## 📫Contact
-✉️ Email :  temporay020627@gmail.com <br>
-📝 Portfolio : https://plastic-prose-6fa.notion.site/Web-Developer-Portfolio-324e03ce397e80b78d51c52e94dc558f <br>
+## Robot Skills
+ROS 2 Humble · rclpy · TurtleBot3 · OpenCR  
+Nav2 · SLAM · Toolbox · OccupancyGrid · Teleoperation  
+OpenCV · ONNX Runtime GPU · YOLOv8n (ONNX)  
+WebSocket · WebRTC · REST API · MediaMTX  
+V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
+
+## Contact
+Email :  temporay020627@gmail.com <br>
+Portfolio : https://plastic-prose-6fa.notion.site/Web-Developer-Portfolio-324e03ce397e80b78d51c52e94dc558f <br>
 <br>
 <br>
-⭐ Thanks for visiting my GitHub!
+Thanks for visiting my GitHub!
