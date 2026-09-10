@@ -90,7 +90,6 @@ V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
 
 ## Contact
 Email :  temporay020627@gmail.com <br>
-Portfolio : https://plastic-prose-6fa.notion.site/Web-Developer-Portfolio-324e03ce397e80b78d51c52e94dc558f <br>
 <br>
 <br>
 Thanks for visiting my GitHub!
