@@ -33,11 +33,21 @@ TurtleBot3와 Jetson Orin Nano를 활용한 피지컬 AI
 체크리스트 모바일 앱
 
 ## Python Skills
-Language  
+**Language**  
 Python · TypeScript
 
-Backend  
+**Backend**  
 FastAPI · SQLAlchemy · REST API · Nginx
+
+**Frontend**  
+React(Vite) · TailwindCSS
+
+**Database**  
+Oracle · MySQL · PostgreSQL · Qdrant
+
+**Tools**  
+Poetry · Jupyter Notebook · Git  
+Linux · Ubuntu · Docker · AWS EC2
 
 ## AI
 LLM · MCP · Embedding · RAG  
@@ -45,17 +55,8 @@ Qdrant Vector DB
 STT · TTS
 
 ## ML / DL
-NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn  · SHAP
+NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn  · SHAP  
 Logistic Regression · XGBoost · PyTorch · MLP
-
-Frontend  
-React(Vite) · TailwindCSS
-
-Database  
-PostgreSQL · Qdrant
-
-Tools  
-Poetry · Jupyter Notebook · Git
 
 ## Robot Skills
 ROS 2 Humble · rclpy · TurtleBot3 · OpenCR  
@@ -65,23 +66,20 @@ WebSocket · WebRTC · REST API · MediaMTX
 V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
 
 ## Java and App Skills
-Language  
+**Language**  
 Java
 
-Backend  
+**Backend**  
 Spring Boot · Spring Framework · JPA(Hibernate) · MyBatis · REST API · Maven · Gradle · Tomcat
 
-Frontend  
+**Frontend**  
 HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap · React(Vite)
 
-Mobile  
-Flutter  · Dart
-
-Database  
-Oracle · MySQL · PostgreSQL
-
-Tools  
+**Tools**  
 Git · Linux · Ubuntu · Docker · AWS EC2
+
+## Mobile  
+Flutter  · Dart
 
 ## Contact
 Email :  temporay020627@gmail.com <br>
