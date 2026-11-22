@@ -7,6 +7,9 @@
          
 ## Projects
 
+### GangNyengI-AI
+치주질환 예측 ML DL 모델 프로젝트
+
 ### GureumTalk
 감성 기반 AI 채팅 및 음성 대화 웹 서비스
 
