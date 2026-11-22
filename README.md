@@ -65,7 +65,7 @@ OpenCV · ONNX Runtime GPU · YOLOv8n (ONNX)
 WebSocket · WebRTC · REST API · MediaMTX  
 V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
 
-## Java and App Skills
+## Java Skills
 **Language**  
 Java
 
@@ -78,7 +78,7 @@ HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap ·
 **Tools**  
 Git · Linux · Ubuntu · Docker · AWS EC2
 
-## Mobile  
+## APP Skills  
 Flutter  · Dart
 
 ## Contact
