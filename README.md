@@ -32,7 +32,7 @@ TurtleBot3와 Jetson Orin Nano를 활용한 피지컬 AI
 ### Check List
 체크리스트 모바일 앱
 
-## ava and App Skills
+## Java and App Skills
 **Language**  
 Java · Dart  
 
