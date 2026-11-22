@@ -32,46 +32,30 @@ TurtleBot3와 Jetson Orin Nano를 활용한 피지컬 AI
 ### Check List
 체크리스트 모바일 앱
 
-## Java and App Skills
-**Language**  
-Java · Dart  
-
-**Backend** <br>
-Spring Boot · Spring Framework · JPA(Hibernate) · MyBatis · REST API · Maven · Gradle · Tomcat
-
-**Frontend** <br> 
-HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap · React(Vite)
-
-**Mobile** <br> 
-Flutter
-
-**Database** <br> 
-Oracle · MySQL · PostgreSQL
-
-**Tools** <br> 
-Git · Linux · Docker · AWS EC2
-
 ## Python Skills
-**Language**  
-Python · Typescript
+Language  
+Python · TypeScript
 
-**Backend** <br>
-FastAPI
+Backend  
+FastAPI · SQLAlchemy · REST API · Nginx
 
 ## AI
-LLM · ML · MCP  
-Embedding · RAG  
-Qdrant tVector DB  
-STT · TTS  
+LLM · MCP · Embedding · RAG  
+Qdrant Vector DB  
+STT · TTS
 
-**Frontend** <br> 
+## ML / DL
+NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn  · SHAP
+Logistic Regression · XGBoost · PyTorch · MLP
+
+Frontend  
 React(Vite) · TailwindCSS
 
-**Database** <br> 
-PostgreSQL
+Database  
+PostgreSQL · Qdrant
 
-**Tools** <br> 
-Poetry
+Tools  
+Poetry · Jupyter Notebook · Git
 
 ## Robot Skills
 ROS 2 Humble · rclpy · TurtleBot3 · OpenCR  
@@ -79,6 +63,25 @@ Nav2 · SLAM · Toolbox · OccupancyGrid · Teleoperation
 OpenCV · ONNX Runtime GPU · YOLOv8n (ONNX)  
 WebSocket · WebRTC · REST API · MediaMTX  
 V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
+
+## Java and App Skills
+Language  
+Java
+
+Backend  
+Spring Boot · Spring Framework · JPA(Hibernate) · MyBatis · REST API · Maven · Gradle · Tomcat
+
+Frontend  
+HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap · React(Vite)
+
+Mobile  
+Flutter  · Dart
+
+Database  
+Oracle · MySQL · PostgreSQL
+
+Tools  
+Git · Linux · Ubuntu · Docker · AWS EC2
 
 ## Contact
 Email :  temporay020627@gmail.com <br>
