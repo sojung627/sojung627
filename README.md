@@ -1,7 +1,5 @@
 # 박소정 | Developer
 
----
-
 ## About me
 
 안녕하세요.   
