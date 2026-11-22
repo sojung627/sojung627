@@ -1,9 +1,13 @@
 # 박소정 | Developer
 
+---
+
 ## About me
 
 안녕하세요.   
 개발자가 되기 위해 열심히 도전 중인 박소정 입니다.
+
+---
          
 ## Projects
 
@@ -32,7 +36,9 @@ TurtleBot3와 Jetson Orin Nano를 활용한 피지컬 AI
 ### Check List
 체크리스트 모바일 앱
 
-## Python Skills
+---
+
+## Python 
 **Language**  
 Python · TypeScript
 
@@ -58,14 +64,14 @@ STT · TTS
 NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn  · SHAP  
 Logistic Regression · XGBoost · PyTorch · MLP
 
-## Robot Skills
+## Robot 
 ROS 2 Humble · rclpy · TurtleBot3 · OpenCR  
 Nav2 · SLAM · Toolbox · OccupancyGrid · Teleoperation  
 OpenCV · ONNX Runtime GPU · YOLOv8n (ONNX)  
 WebSocket · WebRTC · REST API · MediaMTX  
 V4L2 · GStreamer · Jetson Orin Nano · Node.js · SQLite
 
-## Java Skills
+## Java 
 **Language**  
 Java
 
@@ -78,8 +84,10 @@ HTML · CSS · JavaScript · jQuery · Ajax · JSON · Thymeleaf · Bootstrap ·
 **Tools**  
 Git · Linux · Ubuntu · Docker · AWS EC2
 
-## APP Skills  
+## APP   
 Flutter  · Dart
+
+---
 
 ## Contact
 Email :  temporay020627@gmail.com <br>
